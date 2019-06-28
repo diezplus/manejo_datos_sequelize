@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "fmarco",
+    "password": "",
+    "database": "desarrollo01_dev",
+    "host": "pgsql.server.com",
+    "dialect": "postgres"
+  },
+  "test": {
+     "username": "fmarco",
+    "password": "",
+    "database": "desarrollo01_test",
+    "host": "pgsql.server.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "fmarco",
+    "password": "",
+    "database": "desarrollo01",
+    "host": "pgsql.server.com",
+    "dialect": "postgres"
+  }
+}
